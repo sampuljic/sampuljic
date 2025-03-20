@@ -1,1 +1,9 @@
-<h1>Hi, I'm Sam! <br/><a Data Science Graduate </a></h1>
+# Data Science Portfolio for Samantha Puljic
+
+### Python
+
+### R Studio
+
+### Power BI
+
+### SQL
